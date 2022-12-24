@@ -1,5 +1,7 @@
 # Hi there 👋   <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
+# I'm [ljy-002](https://github.com/ljy-002), please visit [His Github](https://github.com/ljy-002) for the latest information
+
 <p align="center">
   <a href="https://github.com/Anmol-Baranwal">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&weight=360&size=24&pause=800&color=6495ED&width=600&height=80&lines=Python+Ai+Developer;Student+Hacker;Enjoy+Learning+Math;Keep+improving"/>      </a>
